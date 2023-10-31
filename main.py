@@ -1,6 +1,6 @@
 print("Hello, world!")
 print("This is a wrong line~")
 print("New updates have arrived!")
-print("This is a new version again!")
+print("Hello we will update right now!")
 
 exit(0)
